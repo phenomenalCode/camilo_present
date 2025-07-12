@@ -4,7 +4,7 @@ import { Box, Typography } from '@mui/material';
 import img1 from './images/camiloboxing.jpg';
 import img2 from './images/IMG_4026.JPG';
 import img3 from './images/IMG_4017.JPG';
-import img4 from './images/IMG_4034.JPG';
+import img4 from './images/IMG_4034.jpg';
 
 export const projectData = [
   {
