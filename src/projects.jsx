@@ -11,7 +11,7 @@ export const projectData = [
     id: 1,
     title: 'A martial artist',
     description:
-      'Check-in system and admin dashboard designed for Reconomy AB. A full-stack employee time-tracking system built with Node.js, Express, and MySQL, featuring Employee Management, Time Logging, Admin Login, Cross-Origin Support. Backend on Heroku, frontend on Netlify.',
+      'Killen är en riktig fighter. Han har tränat kampsport i 10 år och är en riktig gladiator. Han har vunnit flera matcher och är känd för sin explosiva stil och snabba reflexer. Camilo är inte bara stark utan också smart i ringen, han vet alltid hur han ska utnyttja sina motståndares svagheter. Tack vare hans milda autism hyperfixerar han på allt han gör. Detta hjälper honom i ringen och på gatan.',
     img: img1,
   },
   {
