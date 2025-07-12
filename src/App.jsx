@@ -11,7 +11,7 @@ export const App = () => {
     return (
         <div className="app">
             <header>
-                <h1>My Portfolio</h1>
+                <h1>MY BOOOIIIII</h1>
             </header>
             <main>
                 <HeroSection />
